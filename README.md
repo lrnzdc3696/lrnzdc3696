@@ -7,12 +7,12 @@ I'm a python coder who just started out coding this January 2021
 - 👯 I'm looking to collaborate on `any small project`.
 - 🤔 I'm looking for `help with understanding concepts`.
 - 💬 Ask me about `how I learn fast`.
-- 📫 How to reach me: `Discord`
+- 📫 How to reach me: [`Discord`](https://discord.gg/tRMQcwhJcC)
 - 😄 Pronouns: `WhoKnows`
 - 😎 Fun fact: `When I'm in the right mood I'll never give you up`
 
 **My Interests**
-- Python, C, C++, Rust
+- Python, C, C++
 - Data Structure and Algorithms
 - Python Object Oriented Programming (POOP)
 - Machine Learning
