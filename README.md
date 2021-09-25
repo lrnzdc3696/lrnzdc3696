@@ -7,7 +7,7 @@ I'm a python coder who just started out coding this January 2021
 - 👯 I'm looking to collaborate on `any small project`.
 - 🤔 I'm looking for `help with understanding concepts`.
 - 💬 Ask me about `how I learn fast`.
-- 📫 How to reach me: [`Discord`](https://discord.gg/tRMQcwhJcC)
+- 📫 How to reach me: `Discord`
 - 😄 Pronouns: `WhoKnows`
 - 😎 Fun fact: `When I'm in the right mood I'll never give you up`
 
@@ -27,7 +27,6 @@ I'm a python coder who just started out coding this January 2021
 
 **Discord Community**
 - [Python Community](https://discord.gg/python)
-- [Tech with Tim](https://discord.gg/pr2k55t)
 - [Neko Dungeon](https://discord.gg/3cH2r5d)
 
 **Youtube Python Tutorials**
