@@ -1,6 +1,6 @@
 ### Hi there, I'm a monkeybrain with a deadbrain 👋
 
-I'm a coder who started coding at January 2021.
+I'm a 17 yrs old coder who started coding at January 2021.
 I haven been coding on a smartphone since I started.
 I did it to fuel my interest and love for coding.
 And also because I didn't have a laptop 😔.
@@ -16,6 +16,7 @@ And knowledge.
 - 📫 How to reach me: `email or discord`
 - 😄 Pronouns: `monki`
 - 😎 Fun fact: `When I'm in the right mood I'll never give you up`
+- 🌟 Wish: `Get hired even though while I'm still below 20 yrs old`
 
 **My Interests**
 - Python, HTML, CSS
