@@ -1,4 +1,4 @@
-### Hi there, I'm a monkeybrain with a deadbrain 👋
+# Hi there, I'm a monkeybrain with a deadbrain 👋
 
 I'm a 17 yrs old coder who started coding at January 2021.
 I haven been coding on a smartphone since I started.
@@ -18,18 +18,30 @@ And knowledge.
 - 😎 Fun fact: `When I'm in the right mood I'll never give you up`
 - 🌟 Wish: `Get hired even though while I'm still below 20 yrs old`
 
-**My Interests**
+## My Interests
+
 - Python, HTML, CSS
 - Data Structure and Algorithms
 - Python Object Oriented Programming (POOP)
 - Machine Learning
 
+## My TODO
+
+- [ ] Make CLI Games
+- [ ] Do webdev
+- [ ] Learn Machine Learning
+
 ## Quick Learning Tips
-**69/31% rule**
-- When studying you do 69% input 31% output which means while learning you should also apply
+
+### 69/31% rule
+
+- When studying you do 69% input 31% output which means while learning you
+  should also apply
 
 ---
+
 ## My Github Info
+
 ![Profile Views](https://api.ghprofile.me/view?username=m0nk3ybraindead&label=profile_views)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=m0nk3ybraindead&show_icons=true&theme=algolia)
