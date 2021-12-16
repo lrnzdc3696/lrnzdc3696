@@ -28,7 +28,19 @@ And knowledge.
 ## My TODO
 
 - [ ] Make CLI Games
+  - [ ] snakegame
+  - [ ] tetris
+  - [ ] pacman
+  - [ ] chess
+  - [ ] sudoku
+    - [ ] make a solver
+
 - [ ] Do webdev
+  - [ ] My website (portfolio)
+  - [ ] Random Chatting
+
+- [ ] Discord bot that is connected a website
+- [ ] Learn 3d making stuff
 - [ ] Learn Machine Learning
 
 ## Quick Learning Tips
