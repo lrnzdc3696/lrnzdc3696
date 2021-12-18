@@ -27,13 +27,14 @@ And knowledge.
 
 ## My TODO
 
-- [ ] Make CLI Games
+- [ ] Make Games
   - [ ] snakegame
   - [ ] tetris
   - [ ] pacman
   - [ ] chess
   - [ ] sudoku
     - [ ] make a solver
+  - [ ] minesweeper
 
 - [ ] Do webdev
   - [ ] My website (portfolio)
