@@ -33,9 +33,7 @@ And knowledge.
 - [ ] Advent of Code
 
 - [ ] Make CLI Games
-  - [ ] [snakegame](https://github.com/m0nk3ybraindead/Smoll-Projects/tree/main/python/006_snek_game)
-
-- [ ] Make Games
+  - [ ] [snakegame (broken reeeee)](https://github.com/m0nk3ybraindead/Smoll-Projects/tree/main/python/006_snek_game)
   - [ ] snakegame
   - [ ] tetris
   - [ ] pacman
