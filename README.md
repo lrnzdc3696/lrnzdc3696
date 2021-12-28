@@ -27,8 +27,13 @@ And knowledge.
 
 ## My TODO
 
+- [ ] Discord bot that is connected a website
+- [ ] Learn 3d making stuff
+- [ ] Learn Machine Learning
+- [ ] Advent of Code
+
 - [ ] Make CLI Games
-  - [ ] snakegame
+  - [ ] [snakegame](https://github.com/m0nk3ybraindead/Smoll-Projects/tree/main/python/006_snek_game)
   - [ ] tetris
   - [ ] pacman
   - [ ] chess
@@ -38,10 +43,6 @@ And knowledge.
 - [ ] Do webdev
   - [ ] My website (portfolio)
   - [ ] Random Chatting
-
-- [ ] Discord bot that is connected a website
-- [ ] Learn 3d making stuff
-- [ ] Learn Machine Learning
 
 ## Quick Learning Tips
 
