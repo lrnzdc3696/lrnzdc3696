@@ -34,11 +34,15 @@ And knowledge.
 
 - [ ] Make CLI Games
   - [ ] [snakegame](https://github.com/m0nk3ybraindead/Smoll-Projects/tree/main/python/006_snek_game)
+
+- [ ] Make Games
+  - [ ] snakegame
   - [ ] tetris
   - [ ] pacman
   - [ ] chess
   - [ ] sudoku
     - [ ] make a solver
+  - [ ] minesweeper
 
 - [ ] Do webdev
   - [ ] My website (portfolio)
