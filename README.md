@@ -1,7 +1,7 @@
 # Hi there, I'm a monkeybrain with a deadbrain 👋
 
 I'm a 17 yrs old coder who started coding at January 2021.
-I haven been coding on a smartphone since I started.
+I have been coding on a smartphone since I started.
 I did it to fuel my interest and love for coding.
 And also because I didn't have a laptop 😔.
 Even though it was just pure pain, I still made all
@@ -29,11 +29,17 @@ And knowledge.
 
 ### Current
 
-- [ ] Hata Docs website
-- [ ] Putech
-  - [ ] Website
-  - [ ] Api
-  - [ ] Discord Bot
+- [ ] Personal
+  - [ ] My website (portfolio)
+  - [ ] Thigh Api
+  - [ ] More Api
+  - [ ] Random Chatting
+- [ ] YameTech
+  - [ ] Main Website
+  - [x] Service Website
+  - [ ] Api for main website
+  - [ ] Frondent for the main website (react)
+  - [ ] Discord Bots
 
 ### Future
 
@@ -50,9 +56,6 @@ And knowledge.
   - [ ] sudoku
     - [ ] make a solver
   - [ ] minesweeper
-- [ ] Do webdev
-  - [ ] My website (portfolio)
-  - [ ] Random Chatting
 
 ## Quick Learning Tips
 
