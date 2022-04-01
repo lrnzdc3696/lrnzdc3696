@@ -32,7 +32,8 @@ And knowledge.
 - [ ] Personal
   - [ ] My website (portfolio)
   - [ ] Thigh Api
-  - [ ] More Api
+  - [ ] Aitechademia
+  - [ ] Nihonggo Study Buddy
   - [ ] Random Chatting
 - [ ] YameTech
   - [ ] Main Website
@@ -49,7 +50,6 @@ And knowledge.
 - [ ] Advent of Code
 - [ ] Make CLI Games
   - [ ] [snakegame (broken reeeee)](https://github.com/m0nk3ybraindead/Smoll-Projects/tree/main/python/006_snek_game)
-  - [ ] snakegame
   - [ ] tetris
   - [ ] pacman
   - [ ] chess
