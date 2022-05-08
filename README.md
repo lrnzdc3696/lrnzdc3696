@@ -31,7 +31,7 @@ And knowledge.
 
 - [ ] Personal
   - [ ] My website (portfolio)
-  - [ ] Thigh Api
+  - [ ] ~~Thigh~~ Fetish Api
   - [ ] Aitechademia
   - [ ] Nihonggo Study Buddy
   - [ ] Random Chatting
@@ -56,6 +56,12 @@ And knowledge.
   - [ ] sudoku
     - [ ] make a solver
   - [ ] minesweeper
+
+### Website and APIs 
+
+- [ ] movie list
+- [ ] music list
+- [ ] Todo list
 
 ## Quick Learning Tips
 
