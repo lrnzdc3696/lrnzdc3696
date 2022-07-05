@@ -1,6 +1,6 @@
-# Hi there, I'm a monkeybrain with a deadbrain 👋
+# Hi there, I'm LrnzDC3696 👋
 
-I'm a 17 yrs old coder who started coding at January 2021.
+I'm a 18 yrs old coder who started coding at January 2021.
 I have been coding on a smartphone since I started.
 I did it to fuel my interest and love for coding.
 And also because I didn't have a laptop 😔.
@@ -49,7 +49,7 @@ And knowledge.
 - [ ] Learn Machine Learning
 - [ ] Advent of Code
 - [ ] Make CLI Games
-  - [ ] [snakegame (broken reeeee)](https://github.com/m0nk3ybraindead/Smoll-Projects/tree/main/python/006_snek_game)
+  - [ ] [snakegame (broken reeeee)](https://github.com/LrnzDC3696/Smoll-Projects/tree/main/python/006_snek_game)
   - [ ] tetris
   - [ ] pacman
   - [ ] chess
@@ -57,7 +57,7 @@ And knowledge.
     - [ ] make a solver
   - [ ] minesweeper
 
-### Website and APIs 
+### Website and APIs
 
 - [ ] movie list
 - [ ] music list
@@ -74,6 +74,6 @@ And knowledge.
 
 ## My Github Info
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=m0nk3ybraindead&show_icons=true&theme=algolia)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LrnzDC3696&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0nk3ybraindead&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LrnzDC3696&theme=algolia)
