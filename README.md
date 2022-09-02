@@ -31,16 +31,9 @@ And knowledge.
 
 - [ ] Personal
   - [ ] My website (portfolio)
-  - [ ] ~~Thigh~~ Fetish Api
   - [ ] Aitechademia
   - [ ] Nihonggo Study Buddy
   - [ ] Random Chatting
-- [ ] YameTech
-  - [ ] Main Website
-  - [x] Service Website
-  - [ ] Api for main website
-  - [ ] Frondent for the main website (react)
-  - [ ] Discord Bots
 
 ### Future
 
